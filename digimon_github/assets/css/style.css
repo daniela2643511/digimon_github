@@ -1,0 +1,14 @@
+.tarjeta {
+    margin: 2%;
+    display: inline-block;
+
+}
+.navbar{
+    background-color: rgb(181, 189, 196);
+}
+.navbar-brand, .navbar-link{
+    color: rgb(241, 181, 0);
+}
+main{
+    margin: 10%;
+}
